@@ -8,6 +8,8 @@ public class PlayerController : MonoBehaviour
     public float speed;
     public Text countText;
     public Text winText;
+    public Text timerText;
+    public int timeLeft = 20;
 
     private Rigidbody rb;
     private int count;
@@ -19,6 +21,7 @@ public class PlayerController : MonoBehaviour
         count = 0;
         SetCountText();
         winText.text = "";
+        StartCoroutine("LoseTime");
     }
     void FixedUpdate()
     {
@@ -29,6 +32,22 @@ public class PlayerController : MonoBehaviour
         Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
 
         rb.AddForce(movement * speed);
+
+        timerText.text = ("Time Left = " + timeLeft);
+        if(timeLeft <= 0)
+        {
+            StopCoroutine("LoseTime");
+            timerText.text = "Times Up!";
+        }
+    }
+
+    IEnumerator LoseTime()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(1);
+            timeLeft--;
+        }
     }
 
     void OnTriggerEnter(Collider other)
