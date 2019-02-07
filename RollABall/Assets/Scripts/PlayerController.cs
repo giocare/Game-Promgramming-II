@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -10,6 +11,8 @@ public class PlayerController : MonoBehaviour
     public Text winText;
     public Text timerText;
     public int timeLeft = 20;
+
+    public string loserScene;
 
     private Rigidbody rb;
     private int count;
@@ -38,6 +41,7 @@ public class PlayerController : MonoBehaviour
         {
             StopCoroutine("LoseTime");
             timerText.text = "Times Up!";
+            SceneManager.LoadScene(loserScene);
         }
     }
 
