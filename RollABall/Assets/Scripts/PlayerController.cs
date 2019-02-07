@@ -38,6 +38,10 @@ public class PlayerController : MonoBehaviour
             other.gameObject.SetActive(false);
             count = count + 1;
             SetCountText();
+
+            //changes the size of the player by 0.1 everytime an object is picked up
+            transform.localScale -= new Vector3(0.1F, 0.1F, 0.1F);
+
         }
 
     }
