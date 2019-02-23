@@ -1,1 +1,0 @@
-Assets/* linguist-vendored
