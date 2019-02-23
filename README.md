@@ -1,3 +1,4 @@
 # Game-Promgramming-II
+This repo includes class exercises, tutorials and projects
 
-## Poject 0: Cyberpunk Game
+## Project 0: Cyberpunk Game
