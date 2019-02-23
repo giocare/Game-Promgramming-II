@@ -1,1 +1,1 @@
-Assets/TextMesh Pro* linguist-vendored
+Assets/* linguist-vendored
