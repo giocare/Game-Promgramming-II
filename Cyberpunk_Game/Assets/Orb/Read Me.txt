@@ -1,0 +1,5 @@
+This is just a small asset for your game.
+Best practice would be to rotate the orb around itself for the animation. 
+The main idea is that it flies over the ground.Some sort of patroulling around a place. When the player comes near certain distance,the orb then rushes towards the player and on collision explodes!
+
+Any questions or problems feel free to contact me at hamcav90@gmail.com

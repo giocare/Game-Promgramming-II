@@ -1,0 +1,2294 @@
+fileFormatVersion: 2
+guid: 83545575b47971b42a8ca22c63666692
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS DSi - New Super Mario Bros - Koopa Troopa Green_0
+    21300002: DS DSi - New Super Mario Bros - Koopa Troopa Green_1
+    21300004: DS DSi - New Super Mario Bros - Koopa Troopa Green_2
+    21300006: DS DSi - New Super Mario Bros - Koopa Troopa Green_3
+    21300008: DS DSi - New Super Mario Bros - Koopa Troopa Green_4
+    21300010: DS DSi - New Super Mario Bros - Koopa Troopa Green_5
+    21300012: DS DSi - New Super Mario Bros - Koopa Troopa Green_6
+    21300014: DS DSi - New Super Mario Bros - Koopa Troopa Green_7
+    21300016: DS DSi - New Super Mario Bros - Koopa Troopa Green_8
+    21300018: DS DSi - New Super Mario Bros - Koopa Troopa Green_9
+    21300020: DS DSi - New Super Mario Bros - Koopa Troopa Green_10
+    21300022: DS DSi - New Super Mario Bros - Koopa Troopa Green_11
+    21300024: DS DSi - New Super Mario Bros - Koopa Troopa Green_12
+    21300026: DS DSi - New Super Mario Bros - Koopa Troopa Green_13
+    21300028: DS DSi - New Super Mario Bros - Koopa Troopa Green_14
+    21300030: DS DSi - New Super Mario Bros - Koopa Troopa Green_15
+    21300032: DS DSi - New Super Mario Bros - Koopa Troopa Green_16
+    21300034: DS DSi - New Super Mario Bros - Koopa Troopa Green_17
+    21300036: DS DSi - New Super Mario Bros - Koopa Troopa Green_18
+    21300038: DS DSi - New Super Mario Bros - Koopa Troopa Green_19
+    21300040: DS DSi - New Super Mario Bros - Koopa Troopa Green_20
+    21300042: DS DSi - New Super Mario Bros - Koopa Troopa Green_21
+    21300044: DS DSi - New Super Mario Bros - Koopa Troopa Green_22
+    21300046: DS DSi - New Super Mario Bros - Koopa Troopa Green_23
+    21300048: DS DSi - New Super Mario Bros - Koopa Troopa Green_24
+    21300050: DS DSi - New Super Mario Bros - Koopa Troopa Green_25
+    21300052: DS DSi - New Super Mario Bros - Koopa Troopa Green_26
+    21300054: DS DSi - New Super Mario Bros - Koopa Troopa Green_27
+    21300056: DS DSi - New Super Mario Bros - Koopa Troopa Green_28
+    21300058: DS DSi - New Super Mario Bros - Koopa Troopa Green_29
+    21300060: DS DSi - New Super Mario Bros - Koopa Troopa Green_30
+    21300062: DS DSi - New Super Mario Bros - Koopa Troopa Green_31
+    21300064: DS DSi - New Super Mario Bros - Koopa Troopa Green_32
+    21300066: DS DSi - New Super Mario Bros - Koopa Troopa Green_33
+    21300068: DS DSi - New Super Mario Bros - Koopa Troopa Green_34
+    21300070: DS DSi - New Super Mario Bros - Koopa Troopa Green_35
+    21300072: DS DSi - New Super Mario Bros - Koopa Troopa Green_36
+    21300074: DS DSi - New Super Mario Bros - Koopa Troopa Green_37
+    21300076: DS DSi - New Super Mario Bros - Koopa Troopa Green_38
+    21300078: DS DSi - New Super Mario Bros - Koopa Troopa Green_39
+    21300080: DS DSi - New Super Mario Bros - Koopa Troopa Green_40
+    21300082: DS DSi - New Super Mario Bros - Koopa Troopa Green_41
+    21300084: DS DSi - New Super Mario Bros - Koopa Troopa Green_42
+    21300086: DS DSi - New Super Mario Bros - Koopa Troopa Green_43
+    21300088: DS DSi - New Super Mario Bros - Koopa Troopa Green_44
+    21300090: DS DSi - New Super Mario Bros - Koopa Troopa Green_45
+    21300092: DS DSi - New Super Mario Bros - Koopa Troopa Green_46
+    21300094: DS DSi - New Super Mario Bros - Koopa Troopa Green_47
+    21300096: DS DSi - New Super Mario Bros - Koopa Troopa Green_48
+    21300098: DS DSi - New Super Mario Bros - Koopa Troopa Green_49
+    21300100: DS DSi - New Super Mario Bros - Koopa Troopa Green_50
+    21300102: DS DSi - New Super Mario Bros - Koopa Troopa Green_51
+    21300104: DS DSi - New Super Mario Bros - Koopa Troopa Green_52
+    21300106: DS DSi - New Super Mario Bros - Koopa Troopa Green_53
+    21300108: DS DSi - New Super Mario Bros - Koopa Troopa Green_54
+    21300110: DS DSi - New Super Mario Bros - Koopa Troopa Green_55
+    21300112: DS DSi - New Super Mario Bros - Koopa Troopa Green_56
+    21300114: DS DSi - New Super Mario Bros - Koopa Troopa Green_57
+    21300116: DS DSi - New Super Mario Bros - Koopa Troopa Green_58
+    21300118: DS DSi - New Super Mario Bros - Koopa Troopa Green_59
+    21300120: DS DSi - New Super Mario Bros - Koopa Troopa Green_60
+    21300122: DS DSi - New Super Mario Bros - Koopa Troopa Green_61
+    21300124: DS DSi - New Super Mario Bros - Koopa Troopa Green_62
+    21300126: DS DSi - New Super Mario Bros - Koopa Troopa Green_63
+    21300128: DS DSi - New Super Mario Bros - Koopa Troopa Green_64
+    21300130: DS DSi - New Super Mario Bros - Koopa Troopa Green_65
+    21300132: DS DSi - New Super Mario Bros - Koopa Troopa Green_66
+    21300134: DS DSi - New Super Mario Bros - Koopa Troopa Green_67
+    21300136: DS DSi - New Super Mario Bros - Koopa Troopa Green_68
+    21300138: DS DSi - New Super Mario Bros - Koopa Troopa Green_69
+    21300140: DS DSi - New Super Mario Bros - Koopa Troopa Green_70
+    21300142: DS DSi - New Super Mario Bros - Koopa Troopa Green_71
+    21300144: DS DSi - New Super Mario Bros - Koopa Troopa Green_72
+    21300146: DS DSi - New Super Mario Bros - Koopa Troopa Green_73
+    21300148: DS DSi - New Super Mario Bros - Koopa Troopa Green_74
+    21300150: DS DSi - New Super Mario Bros - Koopa Troopa Green_75
+    21300152: DS DSi - New Super Mario Bros - Koopa Troopa Green_76
+    21300154: DS DSi - New Super Mario Bros - Koopa Troopa Green_77
+    21300156: DS DSi - New Super Mario Bros - Koopa Troopa Green_78
+    21300158: DS DSi - New Super Mario Bros - Koopa Troopa Green_79
+    21300160: DS DSi - New Super Mario Bros - Koopa Troopa Green_80
+    21300162: DS DSi - New Super Mario Bros - Koopa Troopa Green_81
+    21300164: DS DSi - New Super Mario Bros - Koopa Troopa Green_82
+    21300166: DS DSi - New Super Mario Bros - Koopa Troopa Green_83
+    21300168: DS DSi - New Super Mario Bros - Koopa Troopa Green_84
+    21300170: DS DSi - New Super Mario Bros - Koopa Troopa Green_85
+    21300172: DS DSi - New Super Mario Bros - Koopa Troopa Green_86
+    21300174: DS DSi - New Super Mario Bros - Koopa Troopa Green_87
+    21300176: DS DSi - New Super Mario Bros - Koopa Troopa Green_88
+    21300178: DS DSi - New Super Mario Bros - Koopa Troopa Green_89
+    21300180: DS DSi - New Super Mario Bros - Koopa Troopa Green_90
+    21300182: DS DSi - New Super Mario Bros - Koopa Troopa Green_91
+    21300184: DS DSi - New Super Mario Bros - Koopa Troopa Green_92
+    21300186: DS DSi - New Super Mario Bros - Koopa Troopa Green_93
+    21300188: DS DSi - New Super Mario Bros - Koopa Troopa Green_94
+    21300190: DS DSi - New Super Mario Bros - Koopa Troopa Green_95
+    21300192: DS DSi - New Super Mario Bros - Koopa Troopa Green_96
+    21300194: DS DSi - New Super Mario Bros - Koopa Troopa Green_97
+    21300196: DS DSi - New Super Mario Bros - Koopa Troopa Green_98
+    21300198: DS DSi - New Super Mario Bros - Koopa Troopa Green_99
+    21300200: DS DSi - New Super Mario Bros - Koopa Troopa Green_100
+    21300202: DS DSi - New Super Mario Bros - Koopa Troopa Green_101
+    21300204: DS DSi - New Super Mario Bros - Koopa Troopa Green_102
+    21300206: DS DSi - New Super Mario Bros - Koopa Troopa Green_103
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1328
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1d38571e79a1b4abc235c42057ca25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1348
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323763ff280673a43859640522cc9998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1342
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367bab25dc8b44f49b4cc531722aea0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1336
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ca6c079f65684c9729a32432735ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1331
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687c6a39337c6744db0a49abc38273c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1326
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35439c2e08a9a8b46a02adadcde84a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f51d6eb746e6494db1ef9575b1bf0e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1316
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b026636817e654ebbb89878ab0bff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1308
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bd665ca04bb1a499eceaa2e4a00b31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1303
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdb6c0760e0293478542d7731ea72e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1295
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc87b1038b69a4aa9d57572677f620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a991b8f5ab5e546a0078cac6adbce1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1281
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2c635193c54154d8977fd0a98578c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1276
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68f412c1ed608b41935700f8b2bea8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1270
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998be01cae9b434888d02c9087ecfcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1262
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50da30eb080e9d4d99b31a085580b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d760fde0e1bf848a30e81dc70a56b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1257
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e5d742147c42049b6f6bf1a128ac43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1252
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cc2040a3fdfe14d8bb117c9935bc6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1244
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdf8094cbfa8dc4da59e6c2129fef00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1233
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf79424c279b54d8166260a62fbe25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb00e56d8666e439cd508ec3a7ab50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1225
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba19c13d9b42164a8fd89970743f6ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1103b18b0c756a343896e39ec49426ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1208
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e36596b738d8a409889f3e8689c7a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1199
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e781a538a40be79438f513f9b7d12e99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1168
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16741dcd81a8fff4b8351212d42ad75e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1187
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b793a5de1758a8046b1e7423c9db13c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1175
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b951fbc3f938aee40afd7067bb9c3b2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1170
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb32200d5e57884f840166e2cc2b687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1165
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d5e98fc352d64aaeafbe3c9a7e9e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47683627b4b138943a97907026878a9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1160
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8b903c82f73114ebccc1e6342c348e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1149
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c91eba1e89ccd40951bbb0f3c48485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1140
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3ec0c86a14f6a46afff458880c04ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1135
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c0c318cbb5044683bf56a3c5fb982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ebe9455774c194d8ddfbe2871b5bb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1130
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed6f74ec08bc6f4599f6a44513e1a1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_38
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1121
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34acb3bfe2ff304e9c17e25a7290016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_39
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1106
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a729b7ea0fb60b4892f4fc9324546dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1072
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556139becbc9db74b9a9895baf134b36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1090
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e06c491ee736e448b9554a4353b828b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1082
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86bdc3d927e6504e92097b97d763f8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1077
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fdae9d1102a0446ad620d6d65097df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1072
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6ec373002eec6428861ba41101462e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30c117931287ab448ecf7ebadcbd9e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1065
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8aa9510ef7c6149b4c6f65f2b0d4fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_47
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1059
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72618fd17d85ce446b4e361ad950bbfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1050
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33af2a31a285a64d9c60bc319d838ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_49
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1045
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52112ed0b47f8764d92ea8bc5a3f0170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_50
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1040
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845e621f65cda8469ac3e20f47ea749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674c7f5e41e80ce49a0441e5fa69d004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1033
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927fd4ea3a08d224299cd0e9ac639509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_53
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1027
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a6f3e96c2b9f408dcf0e3c3c518c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_54
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1016
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df94ae949ef9b8142ae8275176a01a7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_55
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1008
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067d197d086533f489ec708371d63223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba85b7e042c53bf45b7fc8e521d86163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1003
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b40d3cb3ef3a24f9ad46c7f276ab93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 994
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ff312f8d8d7944a483b8593843a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_59
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 986
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ac86acfc9ccba41b36fece5d02f751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 981
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6affb4587da3af547992631b11de9c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 976
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fedb9d67c80600408974c30ce8ec82e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89081167f347ff94c8802c56cc9c3e7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_63
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 964
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9abecd8521eb354090e7bcfb8bce67b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_64
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 959
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeee18939494804f86f36bc39a31e4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_65
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 952
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a87bd361b0b2a74e8e3ffb843979f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_66
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 945
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fef937fc6827144aa5c81d4e0c95b24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb98ea526fa4a834583514cf0ed15b42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 934
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fc60048dcefa849b626bddf2aad631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5165131455555fe46ac6da4b700a7edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5e5fcddd5694e41a6447b0f1c42a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401d80e8a42fe414792b28f712956e6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f69be39f49e8804b86f5ed729ec73dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28a742f29713b54bb07faa7fdb1bb25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f92c84767e7b345bfe3fef9f8e7095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 736
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a51f9453b831e546a44b9f099e73a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 720
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388a05eee4857db4d8827bd64cab148b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de4829e6c1004f4aa8bbeb95bd65ea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 664
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f261c6dbe55a2f4b88cfddcc3f13958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 624
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d252353dcdd74cbcebef914a8b5d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 579
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f8db4534bc2854d9dca0fb74b838be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 545
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92a997a6ae5e13458275860f3a01f6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 526
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1741b294b65414291df552c67eb69d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 505
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beb585a70af8e340a8e291308086027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a145b41466a0ef24eb8e15527485a2f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e58982d32d363544b25972fc7309913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 410
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0d4f243ad597e4399b5214c6b6c98f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08c0ece74191764690ed0b0cad94fd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 371
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e07354be0ee4142a3ce702c747cebd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 361
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade79ef4b172bb4d9ea1568db692d0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 345
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12933875f8859c47bf365831332a30c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 314
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0171ad29dd4d1d47a597fead4521b8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96abf5cecd98e504bb64ed15b4d269e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c3871f024ea9e4ea56b23678078e74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e07fd1e3a8907445a2ea69e32c42077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a990ce0b2bf376a49a40061b86b7a402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60917e4049336014caeb474de4bb2fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_97
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c833eb19fb2d4c84ca7c09a10b6ca132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd5a88fd3714554687ce891f5cde4bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b6745d2584ce5468f6de0687ee5493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05b42f6f2c128a498eaae299847f77c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1071b3d7a09f36499e70772ec8462dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55920b07b294be4f9e7279b8f9885ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Koopa Troopa Green_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef9f2d8153708a4aa7e224033d1b93c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ff7a6aa3c3b80c04db6a0ab769f31beb
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

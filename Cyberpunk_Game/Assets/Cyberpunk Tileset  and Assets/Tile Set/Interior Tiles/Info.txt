@@ -1,0 +1,2 @@
+More tiles in full version
+This tile can be turned on with lights. The sprite for it in full version. Pleaser refer to the playable demo.(Scene 3)
